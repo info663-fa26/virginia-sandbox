@@ -9,9 +9,9 @@
 #
 # site domain, full URL to the production location of your collection
 url: 
-# path to location on the domain if necessary e.g. /digital/hjccc
+# https://info663-fa26.github.io
 baseurl: 
-# location of code, the full url to your github repository
+# /day-demo-repository
 source-code: https://github.com/CollectionBuilder/collectionbuilder-csv
 
 ##########
